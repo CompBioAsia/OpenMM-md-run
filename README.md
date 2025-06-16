@@ -4,7 +4,10 @@ Tutorial on running protein-ligand simulations with OpenMM and AMBER-format inpu
 
 ## Instructions
 
-Clone this repo then execute `run_notebook.sh`. This will install everything required and then launch the notebook.
+Clone this repo then:
+
+* If you are NOT using the CBA Jupyterhub, execute `run_notebook.sh`. This will install everything required and then launch the notebook.
+* if you ARE using the CBA Jupyterhub, just open the file `Openmm-mdm-run.ipynb`.
 
 ## Author
 
